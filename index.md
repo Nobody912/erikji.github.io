@@ -2,3 +2,5 @@
 ### This is documentation of my senior project.
 
 Here you will find my senior reflection writing, high school timeline, and top-ten list.
+
+[A Letter to a Friend](alettertoafriend.md)
