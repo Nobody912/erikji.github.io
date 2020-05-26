@@ -9,4 +9,4 @@ Here you will find my senior reflection writing, high school timeline, and top-t
 
 [Future Plan](posts/futureplan.md)
 
-[Top Ten](posts/topten.md)
+[Top-Ten List](posts/topten.md)
