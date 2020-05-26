@@ -1,4 +1,4 @@
-## A letter to a friend:
+## A Letter to a Friend
 
 Dear Friend,
 
