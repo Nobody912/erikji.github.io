@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
-title-heading: false
 title: SENIOR PROJECT
+github:
+  is_project_page: false
