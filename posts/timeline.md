@@ -17,5 +17,31 @@
 ## Summer 2018 - Summit High Adventure Base Trip (Boy Scouts)
 ![fun](https://i.imgur.com/PAnWgQD.jpg)
 
-##  
+## Winter 2018 - Build 2 of my PC is completed.
+
+## Summer 2019 - The college application grind begins.
+
+## Summer 2019 - I summit Half-Dome
+![wow very cool](https://i.imgur.com/qnBotxz.jpg)
+
+## Fall 2019 - Senior Portrait.
+This year is gonna be great right?
+_cough_ COVID
+![hot](https://i.imgur.com/Zf54Qa2.jpg)
+
+## Fall 2019 - I become an Eagle Scout.
+![hot](https://i.imgur.com/EvZ8ttR.jpg)
+
+## Winter 2019 - Nice.
+![woohoo](https://i.imgur.com/kmqe8no.jpg)
+
+## Winter 2020 - "I'm going to college and don't have much dorm space" / Build 3 of my PC
+_"The thermals will be fiiiinnne"_
+![nope](https://i.imgur.com/CEHQZyr.jpg)
+
+## Spring 2020 - SIP begins.
+_Cool. Cool cool cool._
+
+
+
 
