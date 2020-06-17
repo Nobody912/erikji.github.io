@@ -1,5 +1,3 @@
-plugins:
-    - jekyll-remote-theme
 remote_theme: thelehhman/texture
 title: SENIOR PROJECT
 author: Erik Ji
