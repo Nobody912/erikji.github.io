@@ -4,5 +4,6 @@ plugins:
 remote_theme: nobody912/nord-docs
 
 title: SENIOR PROJECT
+author: Erik Ji
 github:
   is_project_page: false
