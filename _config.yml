@@ -1,7 +1,5 @@
 plugins:
     - jekyll-remote-theme
-    
-remote_theme: nobody912/nord-docs
 
 title: SENIOR PROJECT
 author: Erik Ji
